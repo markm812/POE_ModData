@@ -7,7 +7,7 @@ for key, value in pairs(modItem) do
     if not sortedData[itemType] then
         sortedData[itemType] = {}
     end
-    table.insert(sortedData[itemType], value)
+    sortedData[itemType][key] = value
 end
 
 for itemType, items in pairs(sortedData) do
