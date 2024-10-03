@@ -1,100 +1,110 @@
-[{
+{
+  "DoubleModSellPrice3_":{
     "1":"Item sells for much more to vendors",
-    "type":"DelveImplicit",
     "statOrder":[7388],
-    "statOrderKey":"7388",
+    "level":1,
+    "group":"DoubleModSellPrice3",
     "weightKey":["default"],
     "affix":"",
-    "level":1,
     "modTags":[],
     "weightVal":[6000],
-    "group":"DoubleModSellPrice5"
-  },{
-    "1":"Item sells for much more to vendors",
-    "type":"DelveImplicit",
-    "statOrder":[7388],
     "statOrderKey":"7388",
+    "type":"DelveImplicit"
+  },
+  "DoubleModSellPrice9":{
+    "1":"Item sells for much more to vendors",
+    "statOrder":[7388],
+    "level":1,
+    "group":"DoubleModSellPrice9",
     "weightKey":["default"],
     "affix":"",
+    "modTags":[],
+    "weightVal":[1000],
+    "statOrderKey":"7388",
+    "type":"DelveImplicit"
+  },
+  "DoubleModSellPrice5_":{
+    "1":"Item sells for much more to vendors",
+    "statOrder":[7388],
     "level":1,
+    "group":"DoubleModSellPrice5",
+    "weightKey":["default"],
+    "affix":"",
     "modTags":[],
     "weightVal":[6000],
-    "group":"DoubleModSellPrice1"
-  },{
-    "1":"Item sells for much more to vendors",
-    "type":"DelveImplicit",
-    "statOrder":[7388],
     "statOrderKey":"7388",
+    "type":"DelveImplicit"
+  },
+  "DoubleModSellPrice4":{
+    "1":"Item sells for much more to vendors",
+    "statOrder":[7388],
+    "level":1,
+    "group":"DoubleModSellPrice4",
     "weightKey":["default"],
     "affix":"",
+    "modTags":[],
+    "weightVal":[1000],
+    "statOrderKey":"7388",
+    "type":"DelveImplicit"
+  },
+  "DoubleModSellPrice6":{
+    "1":"Item sells for much more to vendors",
+    "statOrder":[7388],
     "level":1,
+    "group":"DoubleModSellPrice6",
+    "weightKey":["default"],
+    "affix":"",
     "modTags":[],
     "weightVal":[10],
-    "group":"DoubleModSellPrice6"
-  },{
-    "1":"Item sells for much more to vendors",
-    "type":"DelveImplicit",
-    "statOrder":[7388],
     "statOrderKey":"7388",
+    "type":"DelveImplicit"
+  },
+  "DoubleModSellPrice8":{
+    "1":"Item sells for much more to vendors",
+    "statOrder":[7388],
+    "level":1,
+    "group":"DoubleModSellPrice8",
     "weightKey":["default"],
     "affix":"",
-    "level":1,
-    "modTags":[],
-    "weightVal":[2000],
-    "group":"DoubleModSellPrice7"
-  },{
-    "1":"Item sells for much more to vendors",
-    "type":"DelveImplicit",
-    "statOrder":[7388],
-    "statOrderKey":"7388",
-    "weightKey":["default"],
-    "affix":"",
-    "level":1,
     "modTags":[],
     "weightVal":[1],
-    "group":"DoubleModSellPrice8"
-  },{
-    "1":"Item sells for much more to vendors",
-    "type":"DelveImplicit",
-    "statOrder":[7388],
     "statOrderKey":"7388",
+    "type":"DelveImplicit"
+  },
+  "DoubleModSellPrice1":{
+    "1":"Item sells for much more to vendors",
+    "statOrder":[7388],
+    "level":1,
+    "group":"DoubleModSellPrice1",
     "weightKey":["default"],
     "affix":"",
-    "level":1,
-    "modTags":[],
-    "weightVal":[1000],
-    "group":"DoubleModSellPrice4"
-  },{
-    "1":"Item sells for much more to vendors",
-    "type":"DelveImplicit",
-    "statOrder":[7388],
-    "statOrderKey":"7388",
-    "weightKey":["default"],
-    "affix":"",
-    "level":1,
-    "modTags":[],
-    "weightVal":[1000],
-    "group":"DoubleModSellPrice9"
-  },{
-    "1":"Item sells for much more to vendors",
-    "type":"DelveImplicit",
-    "statOrder":[7388],
-    "statOrderKey":"7388",
-    "weightKey":["default"],
-    "affix":"",
-    "level":1,
-    "modTags":[],
-    "weightVal":[1000],
-    "group":"DoubleModSellPrice2"
-  },{
-    "1":"Item sells for much more to vendors",
-    "type":"DelveImplicit",
-    "statOrder":[7388],
-    "statOrderKey":"7388",
-    "weightKey":["default"],
-    "affix":"",
-    "level":1,
     "modTags":[],
     "weightVal":[6000],
-    "group":"DoubleModSellPrice3"
-  }]
+    "statOrderKey":"7388",
+    "type":"DelveImplicit"
+  },
+  "DoubleModSellPrice2":{
+    "1":"Item sells for much more to vendors",
+    "statOrder":[7388],
+    "level":1,
+    "group":"DoubleModSellPrice2",
+    "weightKey":["default"],
+    "affix":"",
+    "modTags":[],
+    "weightVal":[1000],
+    "statOrderKey":"7388",
+    "type":"DelveImplicit"
+  },
+  "DoubleModSellPrice7":{
+    "1":"Item sells for much more to vendors",
+    "statOrder":[7388],
+    "level":1,
+    "group":"DoubleModSellPrice7",
+    "weightKey":["default"],
+    "affix":"",
+    "modTags":[],
+    "weightVal":[2000],
+    "statOrderKey":"7388",
+    "type":"DelveImplicit"
+  }
+}
